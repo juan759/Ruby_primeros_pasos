@@ -1,2 +1,2 @@
 # Ruby_primeros_pasos
-Aquí están los primeros pasos para empezar a programar con el lenguaje Ruby.
+Un poco de introducción a la sintaxis y la manera de pensar los problemas para comenzar a programar con el lenguaje Ruby.
